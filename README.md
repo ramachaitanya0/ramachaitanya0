@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ramachaitanya0
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning pyspark,mlops.
-- 💞️ I’m looking to collaborate on any machine learning or deep learning projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rama Chaitanya 
+- 👀 I’m a Data Science and Machine Learning Enthusiast.
 
 <!---
 ramachaitanya0/ramachaitanya0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
