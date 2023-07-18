@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rama Chaitanya 
-- 👀 I’m a Data Science and Machine Learning Enthusiast.
+👋 Hi, I’m Rama Chaitanya <br>
+👀 I’m a Data Science and Machine Learning Enthusiast.
 
 <!---
 ramachaitanya0/ramachaitanya0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
